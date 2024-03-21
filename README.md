@@ -1,0 +1,2 @@
+# pythonRepo
+vscode git kullanımı
